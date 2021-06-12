@@ -310,7 +310,7 @@
     background-size: cover !important;
 }
 .col-bg-img-eight.ttm-col-bgimage-yes .ttm-col-wrapper-bg-layer{
-    background-image: url(../images/bg-image/col-bgimage-8.jpg) !important;
+    background-image: url(../images/single-img-eighteen.jpg) !important;
     background-position: center center!important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
@@ -338,20 +338,20 @@
 .section-title h5{
     font-weight: 500;
     text-transform: capitalize;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 23px;
     margin-bottom: 5px;
     margin-top: -5px;
 }
 .section-title h2.title{
-    font-size: 34px;
+    font-size: 30px;
     line-height: 44px;
     margin-bottom: 0;
 }
 .section-title h2.title span{
-    font-style: italic;  
+    font-style: initial;  
     font-weight: 700; 
-    font-family: 'Playfair Display', serif; 
+    font-family: 'Playfair', serif; 
     letter-spacing: 1.2px;
 }
 .section-title .title-desc{
